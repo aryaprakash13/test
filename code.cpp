@@ -1,3 +1,8 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 vector<vector<int>> generateSubscriptions(int budget){
    vector<vector<int>> combinations;
    int TOI, Hindu, ET, BM, HT;
